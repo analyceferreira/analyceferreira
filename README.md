@@ -15,7 +15,7 @@
   <img align="center" alt="Logo Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
   <img align="center" alt="Logo Illustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />   
 
-  <img align="right" alt="Analyce-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/932390186359328790/932391822184022076/icon-analyce-ferreira-dapont2.png?width=676&height=676">
+<!--- <img align="right" alt="Analyce-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/932390186359328790/932391822184022076/icon-analyce-ferreira-dapont2.png?width=676&height=676"> -->
 </div>
 
   ##
