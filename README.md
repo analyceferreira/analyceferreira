@@ -1,25 +1,20 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">             
+# 👋 Hi there! I'm Analyce
 
-## Hiii, I'm Analyce, dev fullstack! 
-<div align="center">
-  <a href="https://github.com/analyceferreira">
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Logo React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="Logo TypeScrip" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Logo Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="Logo Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="Logo Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  <img align="center" alt="Logo Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
-  <img align="center" alt="Logo Illustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />   
+**Full Stack Developer** passionate about creating meaningful digital experiences.
 
-<!--- <img align="right" alt="Analyce-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/932390186359328790/932391822184022076/icon-analyce-ferreira-dapont2.png?width=676&height=676"> -->
+### Tech Stack
+
+<div align="left">
+  <img alt="React" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img alt="Next.js" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+  <img alt="TypeScript" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img alt="Vue.js" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
+  <img alt="Node.js" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img alt="NestJS" height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/nestjs/nestjs-original.svg">
+  <img alt="Figma" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
 </div>
 
-  ##
+### Let's Connect
 
-<div> 
-  <a href="https://instagram.com/analyceferreirapro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:contato@analyceferrira.com.br"><img src="https://img.shields.io/badge/-Mail-%23333?style=for-the-badge&logo=maildotru&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/analyceferreiradapont/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@analyceferreira.com.br)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/analyceferreiradapont/)
